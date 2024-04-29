@@ -1,0 +1,6 @@
+version: '3'
+
+tasks:
+  sort:
+    cmds:
+      - ./utils/sort.sh {{.CLI_ARGS}}
