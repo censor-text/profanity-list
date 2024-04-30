@@ -1,0 +1,24 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
+{
+  "name": "profanity-list",
+  "image": "mcr.microsoft.com/devcontainers/base:jammy",
+  "privileged": true,
+  "features": {
+    "ghcr.io/eitsupi/devcontainer-features/go-task:1": {},
+    "ghcr.io/jungaretti/features/make:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "resmon.show.battery": false,
+        "resmon.show.cpufreq": false
+      },
+      "extensions": [
+        "emeraldwalk.runonsave",
+        "esbenp.prettier-vscode",
+        "DavidAnson.vscode-markdownlint"
+      ]
+    }
+  }
+}
