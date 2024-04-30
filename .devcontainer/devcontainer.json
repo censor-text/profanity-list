@@ -21,7 +21,7 @@
       ]
     }
   },
-  "postCreateCommand": "sudo apt update",
+  "postCreateCommand": "sudo apt update && sudo apt upgrade -y",
   "hostRequirements": {
     "cpus": 1,
     "memory": "512mb"
