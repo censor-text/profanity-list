@@ -1,0 +1,11 @@
+{
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "./list/.*\\.txt$",
+        "isAsync": true,
+        "cmd": "./utils/sort.sh ${file}"
+      }
+    ]
+  }
+}

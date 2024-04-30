@@ -1,0 +1,4 @@
+{
+  // Necessary for automatic sorting of words in list/*.txt
+  "recommendations": ["emeraldwalk.runonsave"]
+}
