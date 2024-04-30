@@ -10,12 +10,11 @@ Profanity for other languages ​​will be added in the future
 
 Here is the table with the available languages:
 
-| English | Ukrainian |
-| ------- | --------- |
-| ✅      | ✅       |
+- 🇬🇧 English
+- 🇺🇦 Ukrainian
 
 ## Resources
 
-### English:
+### 🇬🇧 English:
 
 https://github.com/coffee-and-fun/google-profanity-words/blob/main/data/en.txt
