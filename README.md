@@ -17,4 +17,6 @@ Here is the table with the available languages:
 
 ### 🇬🇧 English:
 
-https://github.com/coffee-and-fun/google-profanity-words/blob/main/data/en.txt
+- https://github.com/coffee-and-fun/google-profanity-words/blob/main/data/en.txt
+- https://github.com/rominf/profanity-filter/blob/master/profanity_filter/data/en_profane_words.txt
+- https://github.com/profanitas/abuse/blob/master/abuse/dataset_en.csv
