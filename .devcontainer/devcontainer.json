@@ -20,5 +20,10 @@
         "DavidAnson.vscode-markdownlint"
       ]
     }
+  },
+  "postCreateCommand": "sudo apt update",
+  "hostRequirements": {
+    "cpus": 1,
+    "memory": "512mb"
   }
 }
