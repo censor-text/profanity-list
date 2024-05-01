@@ -21,7 +21,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 You can quickly start editing on **GitHub Codespaces** right away
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/okineadev/dotload?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/okineadev/profanity-list?quickstart=1)
 
 You can also use **vscode** online editor, you just need to press the dot <kbd>.</kbd> key 🪄🔮
 
