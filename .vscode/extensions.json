@@ -1,4 +1,11 @@
 {
-  // Necessary for automatic sorting of words in list/*.txt
-  "recommendations": ["emeraldwalk.runonsave"]
+  "recommendations": [
+    // Necessary for automatic sorting of words in list/*.txt
+    "emeraldwalk.runonsave",
+
+    "DavidAnson.vscode-markdownlint",
+    "mads-hartmann.bash-ide-vscode",
+    "task.vscode-task",
+    "timonwong.shellcheck"
+  ]
 }
