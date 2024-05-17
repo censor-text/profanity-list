@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD001 -->
+<!-- markdownlint-disable MD033 -->
 
 # 🤬 profanity-list
 
@@ -6,14 +7,17 @@
 
 This repository is created to collect a complete list of profanity for different languages ​​to be used in e.g. profanity detection tools / automated solutions for audio and text censorship.
 
-Profanity for other languages ​​will be added in the future
-
 ---
 
 Here is the table with the available languages:
 
-- 🇬🇧 English
-- 🇺🇦 Ukrainian
+| 🇬🇧 English   | 🏳️ Esperanto | 🇪🇸 Spanish  | 🇮🇷 Farsi      |
+| :----------- | :----------- | :---------- | :------------ |
+| 🇫🇮 Finnish   | 🇵🇭 Filipino  | 🇫🇷 French   | 🇮🇳 Hindi      |
+| 🇭🇺 Hungarian | 🇮🇹 Italian   | 🇯🇵 Japanese | 🇰🇷 Korean     |
+| 🇳🇱 Dutch     | 🇳🇴 Norwegian | 🇵🇱 Polish   | 🇵🇹 Portuguese |
+| 🏳️ Russian   | 🇸🇪 Swedish   | 🇹🇭 Thai     | 🇹🇷 Turkish    |
+| 🇺🇦 Ukrainian | 🇨🇳 Chinese   |             |               |
 
 ## 🤝 Contributing
 
@@ -39,8 +43,7 @@ Also, please read our [**Code of Conduct**](CODE_OF_CONDUCT.md), and follow it i
 
 ## 📦 Resources
 
-- 🇬🇧 English
-
-  - <https://github.com/coffee-and-fun/google-profanity-words/blob/main/data/en.txt>
-  - <https://github.com/rominf/profanity-filter/blob/master/profanity_filter/data/en_profane_words.txt>
-  - <https://github.com/profanitas/abuse/blob/master/abuse/dataset_en.csv>
+- <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words>
+- <https://github.com/coffee-and-fun/google-profanity-words/blob/main/data/en.txt>
+- <https://github.com/rominf/profanity-filter/blob/master/profanity_filter/data/en_profane_words.txt>
+- <https://github.com/profanitas/abuse/blob/master/abuse/dataset_en.csv>
