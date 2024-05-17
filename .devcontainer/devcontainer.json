@@ -3,11 +3,14 @@
 {
   "name": "profanity-list",
   "image": "mcr.microsoft.com/devcontainers/base:jammy",
+
   "privileged": true,
+
   "features": {
     "ghcr.io/eitsupi/devcontainer-features/go-task:1": {},
     "ghcr.io/jungaretti/features/make:1": {}
   },
+
   "customizations": {
     "vscode": {
       "settings": {
@@ -17,11 +20,14 @@
       "extensions": [
         "emeraldwalk.runonsave",
         "esbenp.prettier-vscode",
-        "DavidAnson.vscode-markdownlint"
+        "DavidAnson.vscode-markdownlint",
+        "mads-hartmann.bash-ide-vscode",
+        "task.vscode-task",
+        "timonwong.shellcheck"
       ]
     }
   },
-  "onCreateCommand": "sudo apt update && sudo apt upgrade -y",
+
   "hostRequirements": {
     "cpus": 1,
     "memory": "512mb"
