@@ -61,18 +61,6 @@ orospuların
 orospunun
 orospuya
 orospuyu
-otuz birci
-otuz bircide
-otuz birciden
-otuz birciler
-otuz bircilerde
-otuz bircilerden
-otuz bircilere
-otuz bircileri
-otuz bircilerin
-otuz bircinin
-otuz birciye
-otuz birciyi
 saksocu
 saksocuda
 saksocudan
@@ -87,9 +75,7 @@ saksocuya
 saksocuyu
 sik
 sike
-siker sikmez
 siki
-sikilir sikilmez
 sikin
 sikler
 siklerde
@@ -102,7 +88,6 @@ sikmemek
 sikte
 sikten
 siktir
-siktirir siktirmez
 sıçmak
 taşak
 taşaklar

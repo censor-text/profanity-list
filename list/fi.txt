@@ -1,8 +1,5 @@
-alfred nussi
 bylsiä
 haahka
-haista paska
-haista vittu
 hatullinen
 helvetisti
 hevonkuusi
@@ -14,13 +11,11 @@ hitosti
 hitto
 huorata
 hässiä
-juosten kustu
 jutku
 jutsku
 jätkä
 kananpaska
 koiranpaska
-kuin esterin perseestä
 kulli
 kullinluikaus
 kuppainen
@@ -53,7 +48,6 @@ nainti
 narttu
 neekeri
 nekru
-nuolla persettä
 nussia
 nussija
 nussinta
@@ -82,7 +76,6 @@ perkeleesti
 persaukinen
 perse
 perseennuolija
-perseet olalla
 persereikä
 perseääliö
 persläpi
@@ -115,7 +108,6 @@ tussu
 tussukka
 tussut
 vakipano
-vetää käteen
 viiksi
 vittu
 vittuilla
